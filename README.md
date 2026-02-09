@@ -1,5 +1,7 @@
 # To-Do List CLI
 
+<img width="209" height="123" alt="image" src="https://github.com/user-attachments/assets/4d6b1de5-d2d6-4464-9a46-862145b529bb" />
+
 Questo è un programma **CLI (Command Line Interface)** scritto in Python che permette di gestire una semplice **lista di attività**.  
 Puoi aggiungere nuove attività, visualizzare quelle presenti e completare quelle già fatte direttamente dal terminale.
 
